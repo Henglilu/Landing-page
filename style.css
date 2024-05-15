@@ -172,7 +172,7 @@ body{
 .s4btn{
     width: 120px;
     height: 30px;
-    background-color: rgb(255, 36, 36);
+    background-color: transparent;
     border: 1.5px solid rgb(255, 255, 255);
     border-radius: 3px;
     font-weight: 900;
@@ -181,7 +181,6 @@ body{
 }
 .s4btn.hover{
     cursor: pointer;
-    background-color: red;
 }
 
 .footer{
